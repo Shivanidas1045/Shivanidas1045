@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanidas1045&label=Profile%20views&color=0e75b6&style=flat" alt="shivanidas1045" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, TypeScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Bootstrap**
 
 - 📫 How to reach me **dasshivani313@gmail.com**
 
