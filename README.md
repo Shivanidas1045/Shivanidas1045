@@ -1,46 +1,60 @@
 <h1 align="center">Hi 👋, I'm Shivani Das</h1>
-<img align="right" width="400" src="https://media0.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b952jj9hl63hur018osv2g64hybro8ai6bvhuk17rh3x&ep=v1_stickers_related&rid=giphy.gif&ct=s"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanidas1045&label=Profile%20Views&color=0e75b6&style=flat" alt="shivanidas1045" /> </p>
 
-- 🌱 I’m currently learning **MERN**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Bootstrap**
-
-- 📫 How to reach me **dasshivani313@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1r-o15SgO6muxerS1hAYfpnuWpGt8cfdy/view?usp=sharing)
-
-<p align="left"> <a href="https://linkedin.com/in/shivanidas" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </p>
-
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> 
-  </a> 
-  <a href="https://redux.js.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
-  </a> 
-  <a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> 
-  </a> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+%7C+Redux+%7C+JavaScript+Enthusiast;Currently+Learning+MERN+Stack" alt="Typing SVG" />
 </p>
 
+---
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shivanidas1045&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanidas1045&show_icons=true&layout=compact&theme=radical" alt="Top Languages" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanidas1045&theme=radical" alt="GitHub Streak" /> </div>
+### 🌟 About Me
+- 👩‍💻 I'm a passionate **Front-End Developer**
+- 🌱 Currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- 📚 Constantly upgrading my skills and building projects
+- ⚡ I love turning designs into real, responsive websites
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanidas1045&show_icons=true&locale=en&layout=compact" alt="shivanidas1045" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanidas1045&show_icons=true&locale=en" alt="shivanidas1045" /></p>
+### 💻 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,git,github,vscode" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanidas1045&" alt="shivanidas1045" /></p>
+---
+
+### 📫 Contact Me
+- 📧 Email: [dasshivani313@gmail.com](mailto:dasshivani313@gmail.com)
+- 💼 LinkedIn: [Visit My LinkedIn Profile](https://www.linkedin.com/in/shivani-das-8b92b6268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+- 📄 [My Resume](https://drive.google.com/file/d/1qY2XlMP72t2oGtT54x9gdgetEuSWmNVC/view?usp=sharing) 
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanidas1045&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanidas1045&theme=radical" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanidas1045&layout=compact&theme=radical" width="45%" />
+</p>
+
+---
+
+### 🔥 Fun Facts
+- 🌿 I love learning new web technologies
+- 🧠 Learning in public through projects and GitHub
+- 🤝 Open to collaboration on creative and real-world projects
+
+---
+
+### 🎯 Goals for 2025
+- ✅ Get hired as a front-end developer
+- 🚀 Build 5+ real-world projects
+
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+</div>
 
