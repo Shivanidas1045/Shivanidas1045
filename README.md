@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shivani Das</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Front-End+Developer; React+%7C+Redux+%7C+JavaScript+Enthusiast;Currently+Learning+MERN+Stack" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+React+%7C+Redux+%7C+JavaScript;Currently+Learning+MERN+Stack"
+    alt="Typing SVG"
+/>
 </p>
+
 
 ---
 
